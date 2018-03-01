@@ -2,6 +2,7 @@
 Python爬虫-Scrapy框架
 1. 安装
 pip install Scrapy
+
 问题：
 pip install Scrapy报错
 error: Microsoft Visual C++ 14.0 is required. Get it with "Microsoft Visual C++ Build Tools": http://landinghub.visualstudio.com/visual-cpp-build-tools
@@ -12,10 +13,12 @@ pip install D:\_Liunux\study\python\Twisted-17.9.0-cp36-cp36m-win_amd64.whl
 pip install Scrapy  
 安装成功
 
+
 2. 新建项目
 在命令行，切换的自己的项目代码的工作空间下，执行如下命令
 cd D:\_Liunux\study\python\Project
 scrapy startproject ScrapyTest
+
 
 3.spider运行流程
 Spider类定义了如何爬取某个(或某些)网站。包括了爬取的动作(例如:是否跟进链接)以及如何从网页的内容中提取结构化数据(爬取item)。 换句话说，Spider就是您定义爬取的动作及分析某个网页(或者是有些网页)的地方。
