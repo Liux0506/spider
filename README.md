@@ -1,5 +1,5 @@
 # spider
-Python爬虫-Scrapy
+Python爬虫-Scrapy框架
 1. 安装
 pip install Scrapy
 问题：
