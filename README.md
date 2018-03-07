@@ -1,6 +1,6 @@
 
-#Python爬虫-Scrapy
-
+Python爬虫-Scrapy
+--------------
 ##1.安装<br>
 `pip install Scrapy`<br>
 **问题**： pip install Scrapy报错 error: Microsoft Visual C++ 14.0 is required. Get it with "Microsoft Visual C++ Build Tools": http://landinghub.visualstudio.com/visual-cpp-build-tools<br>
